@@ -14,9 +14,6 @@ Instructions
 Tips
 - You can use functions inside functions 🤯
 - Feel free to "fold" your function to clear your workspace once you're done working on it.
-
-Challenge
-The train-fare-calculator exercise could use some love. Refactor the code to use functions.
 */
 
 // Input: a (number), b (number)
